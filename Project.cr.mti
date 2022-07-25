@@ -1,0 +1,24 @@
+D:/2nd-term/logic1/project/Slave.v {1 {vlog -work work -stats=none D:/2nd-term/logic1/project/Slave.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Slave
+-- Compiling module Slave_tb
+
+Top level modules:
+	Slave_tb
+
+} {} {}} D:/2nd-term/logic1/project/Master.v {1 {vlog -work work -stats=none D:/2nd-term/logic1/project/Master.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Master
+-- Compiling module MasterTB
+
+Top level modules:
+	MasterTB
+
+} {} {}} D:/2nd-term/logic1/project/DevelopmentTB.v {1 {vlog -work work -stats=none D:/2nd-term/logic1/project/DevelopmentTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DevelopmentTB
+
+Top level modules:
+	DevelopmentTB
+
+} {} {}}
