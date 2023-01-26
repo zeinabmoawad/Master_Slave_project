@@ -1,2 +1,3 @@
 # Master_Slave_project
-To T
+To understand project read PDF attached to repository
+To run use DevelopmentTB.v to test.
